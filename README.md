@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Hatheraja A](https://github.com/hathe-raja)
+- 👋 Hi, I’m [Hatheraja A](https://github.com/hatheraja)
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on front-end projects
